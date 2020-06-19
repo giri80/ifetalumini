@@ -6,9 +6,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>IFET ALUMINI ECE(1998-2002)</h1>
+      <h1>IFET ALUMNI ECE(1998-2002)</h1>
       <img src={ece2002_pic} alt="profile-image" />
-      <h4>Author : Azhagiri</h4>
+      <h4>Author : Azhagiri M</h4>
     </div>
   );
 }
