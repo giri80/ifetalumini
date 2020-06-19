@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ifetalumni/precache-manifest.8c1af82fc5ed29bfb2872435e6bfaa07.js"
+  "/ifetalumni/precache-manifest.6cdc1773465c7f78c395734f8703e9a4.js"
 );
 
 self.addEventListener('message', (event) => {

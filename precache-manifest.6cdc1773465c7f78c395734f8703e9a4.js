@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "408ccce2caed17de1503ef454e9a490c",
+    "revision": "303ea31235b80e2011112fea25d250dc",
     "url": "/ifetalumni/index.html"
   },
   {
-    "revision": "60d8624f4dece40dc6ba",
+    "revision": "03dfddedf7aac3344d90",
     "url": "/ifetalumni/static/css/main.b312a01f.chunk.css"
   },
   {
-    "revision": "a0a6860e61034198d778",
-    "url": "/ifetalumni/static/js/2.22604fbb.chunk.js"
+    "revision": "8082faf0901e21eb52b9",
+    "url": "/ifetalumni/static/js/2.055de3f7.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/ifetalumni/static/js/2.22604fbb.chunk.js.LICENSE.txt"
+    "url": "/ifetalumni/static/js/2.055de3f7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "60d8624f4dece40dc6ba",
-    "url": "/ifetalumni/static/js/main.dc99beba.chunk.js"
+    "revision": "03dfddedf7aac3344d90",
+    "url": "/ifetalumni/static/js/main.e90c407c.chunk.js"
   },
   {
-    "revision": "737716ebfe56c8f496c3",
-    "url": "/ifetalumni/static/js/runtime-main.25633156.js"
+    "revision": "0f3639d96da2874ec384",
+    "url": "/ifetalumni/static/js/runtime-main.e1d5b218.js"
   },
   {
     "revision": "0892de5f27c520cd32090fe73688b068",
